@@ -2,6 +2,7 @@
 Projeto realizado no curso de Flexbox da Origamid
 
 ## Projeto Final
+> Netlify: https://flexblog-pedro.netlify.app/
 ![Flexblog](https://github.com/Pedro-Murilo/flexblog/blob/master/flexblog-gif.gif)
 
 ### Sobre
